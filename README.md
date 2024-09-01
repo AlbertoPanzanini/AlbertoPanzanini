@@ -11,7 +11,7 @@ These projects represent the skills and knowledge I developed during my studies 
 
 - [`QuizTime Mobile App`](https://github.com/AndreaArbasino/DIMA-quizTime) : Flutter/Firebase App to create, share and take quizzes
 - [`Virtual Beamer`](https://github.com/AndreaArbasino/DS_VirtualBeamer) : Fault-tolerant synchronous sharing of slides over a distributed system
-- [`Masters of Renaissance`](https://github.com/https://github.com/ValeriaPante/masters_of_renaissance) : Client-Server version of "Maestri del Rinascimento" board game (GUI + CLI)
+- [`Masters of Renaissance`](https://github.com/ValeriaPante/masters_of_renaissance) : Client-Server version of "Maestri del Rinascimento" board game (GUI + CLI)
 - [`Image Histrogram Equalisator`](https://github.com/ValeriaPante/image_histogram_equalizator) : Behavioural VHDL implementation of image equalisation through histogram method
 - [`GraphRanker`](https://github.com/AlbertoPanzanini/GraphRanker) : Ranks and returns, when required, top k input graphs according to lowest connection costs
 
