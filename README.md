@@ -1,13 +1,13 @@
 # Hi there, nice to see you! 👋
 
-#### About This Repository
+#### :clipboard: About This Repository
 
 This GitHub repository is a showcase of the projects I have worked on during my time at `Politecnico di Milano`, where I studied `Computer Science and Engineering`.\
 These projects represent the skills and knowledge I developed during my studies in areas such as **mobile apllications**, **distributed systems**, **data structurtes and algorithms** and **software engineering**.
 
 ---
 
-### Interesting Projects
+### :pushpin: Interesting Projects
 
 - [`QuizTime Mobile App`](https://github.com/) : Flutter/Firebase App to create, share and take quizzes
 - [`Virtual Beamer`](https://github.com/) : Fault-tolerant synchronous sharing of slides over a distributed system
@@ -17,21 +17,21 @@ These projects represent the skills and knowledge I developed during my studies 
 
 ---
 
-#### About Me
+#### :raising_hand_man: About Me
 
 I am a recent **graduate in Computer Science and Engineering** from Politecnico di Milano.\
 My interests, in my field of study, range from `Software Engineering` to `Data Engineering` and I am actively looking for full-time opportunities in both these fields.
 
 ---
 
-### Get in touch with me 
+### :black_nib: Get in touch with me 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertopanzanini@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-panzanini)
 
 ---
 
-### Languages and Tools 
+### :hammer_and_wrench: Languages and Tools 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
