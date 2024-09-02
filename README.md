@@ -2,8 +2,8 @@
 
 #### :clipboard: About This Repository
 
-This GitHub repository is a showcase of the projects I have worked on during my time at `Politecnico di Milano`, where I studied `Computer Science and Engineering`.\
-These projects represent the skills and knowledge I developed during my studies in areas such as **mobile apllications**, **distributed systems**, **data structurtes and algorithms** and **software engineering**.
+This GitHub repository is a showcase of the projects I have worked on during my time at [Politecnico di Milano](https://www.polimi.it/), where I studied `Computer Science and Engineering`.\
+These projects represent the skills and knowledge I developed during my studies in areas such as **mobile applications**, **distributed systems**, **data structures and algorithms** and **software engineering**.
 
 ---
 
@@ -12,14 +12,14 @@ These projects represent the skills and knowledge I developed during my studies 
 - [`QuizTime Mobile App`](https://github.com/AndreaArbasino/DIMA-quizTime) : Flutter App to create, share and take quizzes
 - [`Virtual Beamer`](https://github.com/AndreaArbasino/DS_VirtualBeamer) : Fault-tolerant synchronous sharing of slides over a distributed system
 - [`Masters of Renaissance`](https://github.com/ValeriaPante/masters_of_renaissance) : Client-Server version of "Maestri del Rinascimento" board game (GUI + CLI)
-- [`Image Histrogram Equalisator`](https://github.com/ValeriaPante/image_histogram_equalizator) : Behavioural VHDL implementation of image equalisation through histogram method
+- [`Image Histrogram Equalisator`](https://github.com/ValeriaPante/image_histogram_equalizator) : Behavioral VHDL implementation of image equalisation through histogram method
 - [`GraphRanker`](https://github.com/AlbertoPanzanini/GraphRanker) : Ranks and returns, when required, top k input graphs according to lowest connection costs
 
 ---
 
 #### :raising_hand_man: About Me
 
-I am a recent **graduate in Computer Science and Engineering** from Politecnico di Milano.\
+I am a recent **graduate in Computer Science and Engineering** from [Politecnico di Milano](https://www.polimi.it/).\
 My interests, in my field of study, range from `Software Engineering` to `Data Engineering` and I am actively looking for full-time opportunities in both these fields.
 
 ---
